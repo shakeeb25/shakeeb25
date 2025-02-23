@@ -24,3 +24,5 @@ _X: https://x.com/Shxkeeb_ahmed_
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeeb25&layout=compact&theme=default)
 ![GitHub Streak](https://streak-stats.demolab.com?user=shakeeb25&theme=default)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shakeeb25&theme=default)
+
+<br>
