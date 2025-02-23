@@ -39,19 +39,13 @@ I'm **Shakeeb Ahmed**, a Project Manager & Associate Software Developer at ASN I
 
 
 <h3><u>📊 GitHub Stats</u></h3>
+<hr/>
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shakeeb25&show_icons=true&theme=default" alt="Shakeeb's GitHub Stats" />
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakeeb25&layout=compact&theme=default" alt="Top Languages" />
-  </div>
-  <div style="flex: 1;">
-    <img src="https://streak-stats.demolab.com?user=shakeeb25&theme=default" alt="GitHub Streak" />
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-profile-trophy.vercel.app/?username=shakeeb25&theme=default" alt="GitHub Trophies" />
-  </div>
-</div>
+![shakeeb25's Stats](https://github-readme-stats.vercel.app/api?username=shakeeb25&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
+
+![shakeeb25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shakeeb25&theme=vue-dark&hide_border=false)
+
+
+![shakeeb25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeeb25&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
